@@ -15,7 +15,7 @@
 
 ### <i class="fas fa-laptop-code"></i> What I Do
 <ul>
-  <li>💻 <b>Frontend Development:</b> HTML, CSS, JavaScript, React, Vue.js</li>
+  <li>💻 <b>Frontend Development:</b> HTML, CSS, JavaScript, React, Node.js</li>
   <li>📱 <b>Responsive Design:</b> Building websites for all devices</li>
   <li>🚀 <b>Version Control:</b> Git and GitHub for smooth collaboration</li>
   <li>🎨 <b>UI/UX Focused:</b> Prioritizing user experience and accessibility</li>
