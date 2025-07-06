@@ -122,10 +122,6 @@
   <!-- Responsive Design -->
   <img src="https://cdn-icons-png.flaticon.com/512/1006/1006555.png" alt="Responsive Design" width="60" height="60"/>
 
-  <!-- Debugging -->
-  <img src="https://cdn-icons-png.flaticon.com/512/159/159604.png" alt="Debugging" width="60" height="60"/>
 
-  <!-- Collaboration -->
-  <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" alt="Collaboration" width="60" height="60"/>
 </p>
 
