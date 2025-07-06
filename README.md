@@ -85,8 +85,9 @@
   <!-- JavaScript -->
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="60" height="60"/>
 
-  <!-- Angular -->
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732073.png" alt="Angular" width="60" height="60"/>
+<!-- Angular -->
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="60" height="60"/>
+
 
   <!-- TypeScript -->
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" width="60" height="60"/>
@@ -103,8 +104,7 @@
   <!-- Express.js -->
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Express.js" width="60" height="60"/>
 
-  <!-- MongoDB -->
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MongoDB" width="60" height="60"/>
+
 
   <!-- SQL -->
   <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL" width="60" height="60"/>
