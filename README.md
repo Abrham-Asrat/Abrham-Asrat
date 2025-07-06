@@ -98,11 +98,12 @@
   <!-- ASP.NET -->
   <img src="https://cdn-icons-png.flaticon.com/512/873/873107.png" alt="ASP.NET" width="60" height="60"/>
 
-  <!-- Node.js -->
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="60" height="60"/>
+<!-- Node.js -->
+<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="60" height="60"/>
 
-  <!-- Express.js -->
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Express.js" width="60" height="60"/>
+<!-- Express.js -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="60" height="60"/>
+
 
 
 
