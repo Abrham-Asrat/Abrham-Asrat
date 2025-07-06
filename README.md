@@ -95,17 +95,10 @@
   <!-- React -->
   <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" width="60" height="60"/>
   
-<!-- ASP.NET -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET Core" width="60" height="60"/>
-
-
-<!-- Node.js -->
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="60" height="60"/>
-
-
-<!-- Express.js -->
-<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="60" height="60"/>
-
+  <!-- ASP.NET -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET Core" width="60" height="60"/>
+   <!-- Node.js -->
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="60" height="60"/>
 
   <!-- SQL -->
   <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL" width="60" height="60"/>
