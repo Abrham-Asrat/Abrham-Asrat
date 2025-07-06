@@ -100,10 +100,12 @@
 
 
 <!-- Node.js -->
-<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="60" height="60"/>
+
 
 <!-- Express.js -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="60" height="60"/>
+
 
   <!-- SQL -->
   <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL" width="60" height="60"/>
