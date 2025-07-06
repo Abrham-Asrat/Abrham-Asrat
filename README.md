@@ -65,7 +65,7 @@
 ### <i class="fas fa-link"></i> Let’s Connect
 
 <ul>
-  <li><a href="https://linkedin.com/in/abrham-asrate "><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/abrham-asrat-8862b8366"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
   <li><a href="mailto:abrhamasrat10@gmail.com"><i class="fas fa-envelope"></i> Email</a></li>
 </ul>
 
