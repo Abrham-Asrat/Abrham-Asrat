@@ -73,20 +73,58 @@
 
 ## <i class="fas fa-cogs"></i> Skills Overview
 
+
+
 <p align="center">
+  <!-- HTML5 -->
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" width="60" height="60"/>
+
+  <!-- CSS3 -->
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="60" height="60"/>
+
+  <!-- JavaScript -->
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="60" height="60"/>
+
+  <!-- Angular -->
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732073.png" alt="Angular" width="60" height="60"/>
+
+  <!-- TypeScript -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" width="60" height="60"/>
+
+  <!-- React -->
   <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" width="60" height="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/107/107634.png" alt="Angular" width="60" height="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3662/3662366.png" alt="TypeScript" width="60" height="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969565.png" alt="Node.js" width="60" height="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1163/1163661.png" alt="Express.js" width="60" height="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968359.png" alt="MongoDB" width="60" height="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968340.png" alt="SQL" width="60" height="60"/>
+
+  <!-- ASP.NET -->
+  <img src="https://cdn-icons-png.flaticon.com/512/873/873107.png" alt="ASP.NET" width="60" height="60"/>
+
+  <!-- Node.js -->
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="60" height="60"/>
+
+  <!-- Express.js -->
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Express.js" width="60" height="60"/>
+
+  <!-- MongoDB -->
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MongoDB" width="60" height="60"/>
+
+  <!-- SQL -->
+  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL" width="60" height="60"/>
+
+  <!-- Bootstrap -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Bootstrap" width="60" height="60"/>
+
+  <!-- Git -->
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" alt="Git" width="60" height="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="60" height="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1250/1250925.png" alt="Responsive Design" width="60" height="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4315/4315445.png" alt="Debugging" width="60" height="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/456/456212.png" alt="Collaboration" width="60" height="60"/>
+
+  <!-- GitHub -->
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="60" height="60"/>
+
+  <!-- Responsive Design -->
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006555.png" alt="Responsive Design" width="60" height="60"/>
+
+  <!-- Debugging -->
+  <img src="https://cdn-icons-png.flaticon.com/512/159/159604.png" alt="Debugging" width="60" height="60"/>
+
+  <!-- Collaboration -->
+  <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" alt="Collaboration" width="60" height="60"/>
 </p>
+
